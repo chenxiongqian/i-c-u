@@ -1,0 +1,5 @@
+git remote add origin git@github.com:chenxiongqian/i-c-u.git
+git add README
+git rm README
+git commit -m 'second commit'
+git push -u origin master
